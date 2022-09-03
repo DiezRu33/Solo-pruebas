@@ -1,0 +1,4 @@
+Este es el contenido del archivo.txt para la plataforma de GitHub.
+Es mi primer archivo que subo solo y espero que se esté grabando correctamente,
+   al terminar de hacer este contenido verificaré que así sea.
+
